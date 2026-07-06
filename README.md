@@ -133,11 +133,10 @@ The **IT Department** achieved the highest average performance rating. This may 
 
 ---
 
-## 📂 Project Files
+## 📂 Project Files 
 
-- HR_Analytics_Dashboard.xlsx
-- HR_Analytics_Dataset.xlsx
-- Dashboard Screenshot.png
+
+📊 Excel Dashboard: [Hr_Dashboard.xlsx](Hr_Dashboard.xlsx)
 
 ---
 

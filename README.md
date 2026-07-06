@@ -149,9 +149,14 @@ The **IT Department** achieved the highest average performance rating. This may 
 - Business Intelligence
 - HR Analytics
 - Data Visualization
-Screeen_Shot
 
-![HR Analytics Dashboard](WhatsApp%20Image%202026-07-06%20at%2010.12.57%20PM.jpg)
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="Dashboard.png" alt="HR Analytics Dashboard" width="900">
+</p>
+
+
 
 ---
 
